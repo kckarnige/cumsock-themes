@@ -5,7 +5,6 @@
     "author": "KayoticCarnige"
   },
   "themes" : [
-    "https://kckarnige.is-a.dev/custom-server-logos/csl.theme.css",
-    "https://kckarnige.is-a.dev/improved-ui/master/improvedui.theme.css"
+    "https://kckarnige.is-a.dev/improved-ui/cumcord_theme.css"
   ]
 }
