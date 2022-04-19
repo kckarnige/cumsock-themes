@@ -1,10 +1,11 @@
 {
   "meta": {
-    "name": "Cumsock Test Repo",
+    "name": "Cumsock",
     "description": "A test repo",
     "author": "KayoticCarnige"
   },
   "themes" : [
-    "https://kckarnige.is-a.dev/improved-ui/cumcord_theme.css"
+    "https://kckarnige.is-a.dev/improved-ui/cumcord_theme.css",
+    "https://kckarnige.is-a.dev/server-scroll/serverlistscroll.theme.css"
   ]
 }
